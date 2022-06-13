@@ -27,20 +27,20 @@ The biggest challenge I encountered was using the ‘countifs’ function becaus
 
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-    * May and June hosted the most number of successful campaigns. 
-    * Campaigns are not successful during the winter months (November-January). This could be a direct result of holiday season during those months.  
+* May and June hosted the most number of successful campaigns. 
+* Campaigns are not successful during the winter months (November-January). This could be a direct result of holiday season during those months.  
 
 #### What can you conclude about the Outcomes based on Goals?
     
-    *	We can conclude that campaigns that had a reasonable funding goal, i.e., $5000-$10000 were mostly successful but campaigns with a higher funding goal had a higher failure rate. 
+ *	We can conclude that campaigns that had a reasonable funding goal, i.e., $5000-$10000 were mostly successful but campaigns with a higher funding goal had a higher failure rate. 
  
 #### What are some limitations of this dataset?
     
-    *	We don’t know how the campaigns were advertised (i.e., flyers, advertised in newspaper, radio, television etc.) and if or how it affected the funding goals.
-    *	There is no information on the genres of the plays. It would have been helpful to Louise if we know what genres met their fundraising goals which ones didn’t. 
+ *	We don’t know how the campaigns were advertised (i.e., flyers, advertised in newspaper, radio, television etc.) and if or how it affected the funding goals.
+ *	There is no information on the genres of the plays. It would have been helpful to Louise if we know what genres met their fundraising goals which ones didn’t. 
 
 #### What are some other possible tables and/or graphs that we could create?
     
-    *	A pivot table and line graph based on the number of backers based on the subcategory. 
-    *	Since Louise was also interested in plays from Great Britain, we can make a comparison bar graph based on the launch dates and outcomes of plays from GB and US.
+ *	A pivot table and line graph based on the number of backers based on the subcategory. 
+ *	Since Louise was also interested in plays from Great Britain, we can make a comparison bar graph based on the launch dates and outcomes of plays from GB and US.
 
