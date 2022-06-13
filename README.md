@@ -1,15 +1,15 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The objective of this project is to analyze the Kickstarter dataset and visualize the outcomes of the campaigns in relation to their funding goals and their launch dates. 
+The objective is to help playwright Louise, who wants to start a crowdfunding campaign for her play Fever. Throughout the module, we have been organizing, sorting, and analyzing data to determine if there are specific factors that contribute to a successful fundraising campaign. And finally in the Kickstarter Challenge, we sorted and visualized data in order to help Louise with outcomes based on Launch Dates and funding goals. 
 
 ### Purpose
-The purpose is to help playwright Louise, who wants to start a crowdfunding campaign for her play Fever. Throughout the module, we have been organizing, sorting, and analyzing data to determine if there are specific factors that contribute to a successful fundraising campaign. 
+The purpose is to analyze the Kickstarter dataset which contains over 4000 projects including categories such as goal amount, pledged amount, country, ID, category and subcategory of the campaign etc. We used Excel to filter, format, sort, and organize data to reach conclusion and also used pivot tables, pivot charts, bar graphs, line graphs etc. to visualize the conclusion. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-For this deliverable, we analyzed the outcomes for category theater based on the launch dates, specifically months of the year to determine if there is a specific period of the year that people funded a theater play. A Pivot Table and Pivot Chart was created to help analyze and visualize the data. 
+For this deliverable, we analyzed the outcomes for category theater based on the launch dates, specifically months of the year to determine if there is a specific period of the year that people funded a theater play. A Pivot Table and Pivot Chart ware created to help analyze and visualize the data. 
 
 ![Screenshot 2022-06-13 152013](https://user-images.githubusercontent.com/107225715/173456714-2875df79-7d53-49e3-9adb-7f094fadbfb1.png)
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107225715/173456911-01d66805-6b2b-401c-9f7b-608a97d5eee1.png)
@@ -21,15 +21,13 @@ For this deliverable, we analyzed data to get the number of successful, canceled
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107225715/173457176-6ed98572-13fd-4dce-8e7b-40ab1c303a4a.png)
 
 ### Challenges and Difficulties Encountered
-The biggest challenge I encountered was using the ‘countifs’ function because I didn’t have much knowledge about it, and it took me some time to get it done. Using the GitHub template and uploading the results were also challenging. 
+The biggest challenge I encountered was using the ‘countifs’ function because I didn’t have much knowledge about it, and it took me some time to get it done. Using the GitHub template and uploading the results were also challenging and it took multiple attempts just to get the README right. 
 
 ## Results
 
  What are two conclusions you can draw about the Outcomes based on Launch Date?
-    
-    • May and June hosted the most number of successful campaigns. 
-    
-    •	Campaigns are not successful during the winter months (November-January). This could be a direct result of holiday season during those months.  
+    - May and June hosted the most number of successful campaigns. 
+    -	Campaigns are not successful during the winter months (November-January). This could be a direct result of holiday season during those months.  
 
  What can you conclude about the Outcomes based on Goals?
     
