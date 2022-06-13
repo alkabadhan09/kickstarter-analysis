@@ -8,7 +8,7 @@ The purpose is to analyze the Kickstarter dataset which contains over 4000 proje
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Theater Outcomes Based on Launch Date
 For this deliverable, we analyzed the outcomes for category theater based on the launch dates, specifically months of the year to determine if there is a specific period of the year that people funded a theater play. A Pivot Table and Pivot Chart ware created to help analyze and visualize the data. 
 
 ![Screenshot 2022-06-13 152013](https://user-images.githubusercontent.com/107225715/173456714-2875df79-7d53-49e3-9adb-7f094fadbfb1.png)
